@@ -3,7 +3,6 @@ function calcularAreaCirculo(radio) {
     return area;
 }
 
-// Ejemplo de uso de la función
 const radio = 5;
 const areaDelCirculo = calcularAreaCirculo(radio);
-console.log("El área del círculo con radio", radio, "es:", areaDelCirculo);
+console.log("El área del círculo con radio nosee que poner", radio, "es:", areaDelCirculo);
