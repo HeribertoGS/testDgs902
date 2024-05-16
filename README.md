@@ -1,0 +1,3 @@
+Holaaaaaa tqm 
+se utiliza html, javascript, css tienes que saberle tambien a flutter y django.
+Adios.........
